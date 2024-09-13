@@ -9,3 +9,18 @@ Delivery Date: 22:00 - 26/09/2024.
 
 ### Teacher:
 * Francisco Suárez Ramírez
+
+## Objective:
+To Complete.
+
+## Explanation of the problem:
+To Complete.
+
+## Proposed Solution:
+To Complete.
+
+## Conclusion:
+To Complete.
+
+## References:
+To Complete.
