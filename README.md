@@ -25,9 +25,9 @@ In conclusion, I think we achieved our goal, bringing that aura of suspense and 
 Note: For video reasons, the MIDI we obtained from OM cannot be used directly, so the file was converted to an MP3 in order to be able to use it.
 
 ### Video
-Link del video en youtube: [Gameplay Lovecraft's Untold Stories With Background Music OM7_3](https://youtu.be/LdtCrmZP8cI)
+Link to the video on YouTube: [Gameplay Lovecraft's Untold Stories With Background Music OM7_3](https://youtu.be/LdtCrmZP8cI)
 
-[![](https://markdown-videos.deta/dev/youtube/LdtCrmZP8cI)](https://youtu.be/LdtCrmZP8cI)
+[![Watch the video](https://img.youtube.com/vi/LdtCrmZP8cI/0.jpg)](https://youtu.be/LdtCrmZP8cI)
 
 ## References:
 * [OpenMusic](https://openmusic-project.github.io)
